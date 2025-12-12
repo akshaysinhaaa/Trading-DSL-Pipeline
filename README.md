@@ -28,6 +28,12 @@ A comprehensive implementation of a natural language to executable code pipeline
 
 ## 🚀 Quick Start
 
+### Clone
+
+```bash
+git clone https://github.com/akshaysinhaaa/Trading-DSL-Pipeline/tree/main
+```
+
 ### Prerequisites
 
 ```bash
