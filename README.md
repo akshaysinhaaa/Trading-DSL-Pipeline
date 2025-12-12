@@ -22,7 +22,7 @@ A comprehensive implementation of a natural language to executable code pipeline
 ├── code_generator.py      # AST to Python code generator
 ├── backtest.py            # Backtest simulator with performance metrics
 ├── main.py                # Streamlit web application
-├── DSL_SPECIFICATION.md   # Detailed DSL grammar documentation
+├── GRAMMAR_SUPPORT.md     # Detailed DSL grammar documentation
 └── README.md              # This file
 ```
 
