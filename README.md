@@ -31,7 +31,7 @@ A comprehensive implementation of a natural language to executable code pipeline
 ### Clone
 
 ```bash
-git clone https://github.com/akshaysinhaaa/Trading-DSL-Pipeline/tree/main
+git clone https://github.com/akshaysinhaaa/Trading-DSL-Pipeline.git
 ```
 
 ### Prerequisites
